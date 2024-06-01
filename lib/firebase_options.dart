@@ -50,17 +50,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCIQjm4gUchWEKRJnP078--fR2h41hDYiQ',
-    appId: '1:298639859777:android:21c0cda9e65b1ace40a6c0',
-    messagingSenderId: '298639859777',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'creator-hub-new',
     storageBucket: 'creator-hub-new.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAcaTCqsEly_cQMLf4Hsbz07vfGk23GNxc',
-    appId: '1:298639859777:ios:7476efe3c847fec640a6c0',
-    messagingSenderId: '298639859777',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'creator-hub-new',
     storageBucket: 'creator-hub-new.appspot.com',
     iosBundleId: 'com.Shade.creatorHub',
